@@ -1,5 +1,3 @@
+ hotfix
+Critical bug fix
 master
-initial file
-Release fix 1
-Release fix 2
-release

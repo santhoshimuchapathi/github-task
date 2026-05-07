@@ -1,5 +1,11 @@
+<develop
 feature2
 feature2 - file1
 feature2 - file2
 feature2 commit1
 feature2 commit2
+=======
+ hotfix
+Critical bug fix
+master
+ hotfix

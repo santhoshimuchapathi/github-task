@@ -1,3 +1,5 @@
-feature1 commit2
+feature2
 feature2 - file1
 feature2 - file2
+feature2 commit1
+feature2 commit2
